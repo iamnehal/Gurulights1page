@@ -1,0 +1,153 @@
+body  {font-family: 'Noto Sans TC', sans-serif;
+    margin: 0px;
+    padding: 0px;
+  background:url('images/backgroundimg.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  color: yellow;
+   }
+
+.container{ position: absolute;
+    /* border: solid 2px white; */
+    border-radius: 29px;
+
+    margin: 20px 30px;
+    padding: 30px 25px;
+    top:28%;
+    left:8%;
+    bottom: 10%;
+    height: 34%;
+} 
+.form-group input { font-family: 'Noto Sans TC', sans-serif; 
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+    width: 300px;
+padding: 2px;
+height:12px
+
+ 
+}
+.submit button{ font-family: 'Noto Sans TC', sans-serif; 
+    display: block;
+    text-align: center;
+    margin: 10px 100px;
+    width: 340px ;
+ 
+}
+.submit button:hover { font-family: 'Noto Sans TC', sans-serif; 
+   color: blue;
+   background-color: white;
+   
+} 
+
+.container h2{      display: block; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(0, 0, 255, 0.781);
+    background-color: white;
+
+    margin: 1px 1px;
+    width: 480px;
+    
+}
+
+
+   .left{ font-family: 'Courgette', cursive;
+    font-family: 'Noto Sans TC', sans-serif;
+    display: inline-block; 
+       /* border: 2px solid blue; */
+       top:10px;
+       left:47px;
+       position: absolute;
+       
+
+
+   }
+   #logotext{
+       text-align-last: center;
+       font-family: 'Courgette', cursive;
+font-family: 'Noto Sans TC', sans-serif;
+   }
+
+   .navbar{
+       display: inline-block;
+   }
+   .navbar li{
+       display: inline-block;
+       margin: 2px 2px;
+   }
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 20px 20px ;
+    font-size: 20px;
+} 
+.left img{
+    width: 120px;
+}
+
+
+.btn{ display: inline-block;
+     margin: 0px 9px;
+    background-color: black;
+    color: white;
+    padding: 15px 12px; 
+    /* border: solid #03a9f4 2px; */
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Noto Sans TC', sans-serif;
+    box-shadow: none;
+  border:none
+    
+}
+    
+
+.btn:hover{
+    background-color: white;
+    color: violet;
+}
+.navbar li a{
+    color: white;
+    text-decoration: none;
+    padding: 20px 20px ;
+    font-size: 20px;
+}
+
+.navbar li a:hover{
+
+text-decoration: underline;
+color: violet;
+
+
+
+}
+
+   
+   .mid{ 
+       position: absolute;
+    display: inline-block;
+     /*  border: 2px solid yellow ;  */
+    
+    width: auto;
+    left: 28%;
+   
+    margin: 10px 0px;
+    
+    
+   }
+   .right{ 
+    position: absolute;
+left: 80%;
+top: 20px;
+display: inline-block;
+
+     /* border: 2px solid red;  */
+    width: auto;
+    
+      
+
+    
+    
+    
+   }
+    
